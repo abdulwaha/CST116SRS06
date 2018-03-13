@@ -2,14 +2,14 @@
 SSD
 
 
-Class ID:  
+Class ID:  Pelipper
 
 SRS ID: CST116SRS06  
 
 Unresolved Issues:  
 
 Notes:  
-
+I have been asigned to work with one partner,and I've Shared my data and function with him and haven't heard from him yet. 
 Partner Left:  
 
 Partner Right:  
